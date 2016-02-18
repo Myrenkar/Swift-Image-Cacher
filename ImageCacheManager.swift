@@ -1,10 +1,8 @@
 //
 //  ImageCacheManager.swift
-//  ThanksAgain
 //
 //  Created by Piotr Torczyski on 16/02/16.
-//  Copyright © 2016 SoInteractive S.A. All rights reserved.
-//
+
 
 import UIKit
 import Alamofire
